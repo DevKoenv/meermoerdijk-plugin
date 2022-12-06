@@ -1,0 +1,8 @@
+name: MeerMoerdijk
+version: '${project.version}'
+main: nl.meermoerdijk.main.Main
+api-version: 1.19
+load: STARTUP
+authors: [ GamingMineblox, FoxxyBlade ]
+description: Plugin voor de MeerMoerdijk Minecraft server
+website: https://meermoerdijk.nl
